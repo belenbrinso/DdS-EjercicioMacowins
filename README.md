@@ -11,7 +11,7 @@ Solución propuesta:
 
 Aclaraciones:
   - En esta instancia los tipos de prendas no se usan para nada, por eso elijo modelarlos como strings, por ejemplo.
-  - El coeficiente fijo que se usa en el recargo de la tarjeta no lo modelé como un atributo de esa clase porque no queda muy claro de dónde lo obtenemos, puede ser un valor x que la empresa cambia cada año y no depende de la tarjeta uso para pagar.
+  - El coeficiente fijo que se usa en el recargo de la tarjeta no lo modelé como un atributo de esa clase porque no queda muy claro de dónde lo obtenemos, puede ser un valor x que la empresa cambia cada año y no depende de la tarjeta que uso para pagar.
   - Podríamos tener una clase Registro que posea una lista de Fecha, pero no la modelé porque en esta instancia no hacemos nada con dicha clase.
   - Pseudocódigo que considero necesario para terminar de entender el diagrama de clases:
         
